@@ -1,0 +1,151 @@
+.contenido {
+    display: inline-block;
+    width: 100%;
+}
+
+.inicio {
+    width: 19%;
+}
+.recetario {
+    width: 19%;
+}
+.menusemanal {
+    width: 19%;
+}
+.quiensoy {
+    width: 19%;
+}
+.contacto {
+    width: 19%;
+}
+.busqueda {
+    width: 5%;
+}
+input {
+    color: gray;
+}
+
+.menu {
+    display: inline-flex;
+    color: gray;
+    width: 100%;
+    padding: 3px 50px;
+    border-right: solid grey;
+}
+
+h1 {
+    color: #E3C0AF;
+    margin: 20px 50px;
+    padding: 15px;
+    text-align: center;
+    border-bottom: solid #FAE1CD;;
+}
+
+img {
+    margin: 5px;
+}
+
+.blog {
+   display: inline-flex; 
+   width: 100%;
+   height: 2600px;
+}
+.recetas {
+    display: block;
+    background-color: #FAE1CD;
+    width: 75%;
+    margin: 5px 5px;
+}
+.galletas {
+    width: 80%;
+    margin: 45px;
+    padding: 25px 50px;
+    border: solid rgb(161, 159, 159, 0.3);
+}
+h3 {
+    color: gray;
+    text-align: center;
+}
+a {
+    color: #8F7358;
+    text-align: center;
+}
+.recetas> div> img {
+    margin: 10px 150px;
+}
+.brochetas {
+    width: 80%;
+    margin: 45px;
+    padding: 25px 50px;
+    border: solid rgb(161, 159, 159, 0.3);
+}
+.arroz {
+    width: 80%;
+    margin: 45px;
+    padding: 25px 50px;
+    border: solid rgb(161, 159, 159, 0.3);
+}
+.tarta {
+    width: 80%;
+    margin: 45px;
+    padding: 25px 50px;
+    border: solid rgb(161, 159, 159, 0.3);
+}
+
+.extras {
+    background-color: whitesmoke;
+    width: 25%;
+    margin: 5px 5px;
+}
+h4 {
+    color:#A89982;
+}
+p {
+    color: #948672;
+}
+.yo {
+    width: 90%;
+    border: solid #FAE1CD;
+    text-align: center;
+    padding: 5px;
+}
+.libro {
+    width: 90%;
+    border: solid #FAE1CD;
+    text-align: center;
+    padding: 5px;
+}
+.etiquetas {
+    width: 90%;
+    border: solid #FAE1CD;
+    padding: 5px;
+}
+
+h4.anteriores {
+    color: #FF4C44;
+    text-align: end;
+}
+
+.redes {
+    display: inline-flex;
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    padding: 8px 50px;
+}
+.fb {
+    color: blue;
+}
+.i {
+    color: crimson;
+    text-align: center;
+}
+.p {
+    color: darkred;
+}
+.y {
+    color: red;
+}
+.e {
+    color: green;
+}
